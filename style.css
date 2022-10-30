@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(237, 219, 100);
+}
+
+#list{
+    color: black;
+    width: 500px;
+    height: 500px;
+}
+
+#photo{
+
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    width: 350px;
+    height: 350px;
+}
+
+#camera{
+    border-color: black;
+    border-width: 2px;
+    width: 350px;
+    height: 200px;
+    border-style: solid;
+}
+
+
+
+.sneaky{
+    display: none;
+}
