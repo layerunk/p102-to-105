@@ -16,7 +16,7 @@ function click(){
     });
 }
 document.getElementById("check").innerHTMLdisplay = "all"; 
-var model = ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/Ts1rx_FF-/model.json" , ModelLink);
+var model = ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/JusvXcbFv/model.json" , ModelLink);
 
 function ModelLink(){
     console.log("Ml5 version:" , ml5.version);
